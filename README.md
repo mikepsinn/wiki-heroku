@@ -13,3 +13,5 @@ If you want to modify the configuration beyond what's available through environm
 * Make and commit your configuration changes
 * `git remote add heroku https://git.heroku.com/my-wiki.git`
 * `git push heroku`, or if you are on a branch, `git push heroku mybranch:master`
+
+
